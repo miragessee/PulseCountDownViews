@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "PulseCountDownViews"
 include(":app")
- 
+include(":library")
